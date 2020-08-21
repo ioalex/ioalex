@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there! 👋
+
+Welcome to my GitHub profile! 😄
+- 🌱 I’m currently self-learning front-end web development and am really enjoying it!
+- 🔭 I’ve been working on a website for a side gig. 💪 Exciting, I know!
+- 💬 Ask me about ANYTHING! I'm always down for a chat.
+
+- 📫 How to reach me:
+  - 📧 Email: alex@alexhe.io
+  - 🐦 Twitter: @alexheio
+
 
 <!--
 **ioalex/ioalex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
