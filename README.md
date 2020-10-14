@@ -27,9 +27,9 @@ I enjoy experimenting with new technologies by building small projects and am in
 </details>
 <br>
 
-<center><i>Let's connect! ☎️</i></center>
 <p align="center">
-<br>
+<i>Let's connect! ☎️</i>
+<br><br>
 <a href="https://dev.to/ioalex" alt="DEV.to"><img src="assets/icons/dev-to.png"/></a>
 <a href="https://medium.com/@ioalex" alt="Medium"><img src="assets/icons/medium.png"/></a>
 <a href="https://www.npmjs.com/~alexhecodes" alt="NPM"><img src="assets/icons/npm.png"/></a>
@@ -40,11 +40,11 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 <br>
 
-<center>
+<p align="center">
 <a href="https://github.com/ioalex/ioalex">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ioalex&theme=blueberry&show_icons=true&line_height=27&count_private=true" alt="Martin's GitHub Stats" />
 </a>
-</center>
+</p>
 <br>
 
 ---
