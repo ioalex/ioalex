@@ -14,13 +14,14 @@ Welcome to my GitHub profile! 😄
 
 ## Stats
 
-[![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ioalex&theme=blueberry&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Alex's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ioalex&theme=blueberry&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
 ## Recent Activity
 
 <!--START_SECTION:activity-->
+
 1. 💪 Opened PR [#572](https://github.com/anuraghazra/github-readme-stats/pull/572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
 2. 🎉 Merged PR [#1](https://github.com/ioalex/vanilla-parcel-boilerplate/pull/1) in [ioalex/vanilla-parcel-boilerplate](https://github.com/ioalex/vanilla-parcel-boilerplate)
 3. 🎉 Merged PR [#1](https://github.com/ioalex/sass-gulp-experiment/pull/1) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
