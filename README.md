@@ -8,7 +8,7 @@ Welcome to my GitHub profile! 😄
 
 - 📫 How to reach me:
   - 📧 Email: alex@alexhe.io
-  - 🐦 Twitter: @alexheio
+  - 🐦 Twitter: @ioalex_
 
 ---
 
