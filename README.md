@@ -44,7 +44,6 @@ I enjoy experimenting with new technologies by building small projects and am in
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ioalex&theme=blueberry&show_icons=true&line_height=27&count_private=true" alt="Martin's GitHub Stats" />
 </a>
 </p>
-<br>
 
 ---
 
@@ -52,16 +51,17 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 ## Technologies
 
-![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Tools-PostCSS-informational?style=flat&logo=postcss&logoColor=white&color=7D6B91)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=7D6B91)
+![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=7D6B91)
+![ZSH](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=7D6B91)
+![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7D6B91)
+![Neovim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=7D6B91)
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7D6B91)
+![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=7D6B91)
+![Gulp](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=7D6B91)
+![Webpack](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=7D6B91)
+![PostCSS](https://img.shields.io/badge/Tools-PostCSS-informational?style=flat&logo=postcss&logoColor=white&color=7D6B91)
+![NPM](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=7D6B91)
+![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=7D6B91)
 
 ---
 
