@@ -1,15 +1,14 @@
-# Hi there! <img src="assets/gif/wave.gif" width="30px">
+# Hey! <img src="assets/gif/wave.gif" width="30px">
 
 <p align="center">
+  Hi, I'm Alex. 😄
+  <br>
   <i>Welcome to my GitHub profile!</i>
-</p>
+  <br><br>
+  I'm an aspiring web developer from Melbourne, Australia. 🦘
 
-<p align="center">
-  I'm Alex and I am an aspiring web developer from Melbourne, Australia. 🦘
-</p>
+I enjoy experimenting with new technologies by building small projects and am interested in front-end architecture. I like to learn about how things work and the many different ways we can build a project.
 
-<p align="center">
-I enjoy experimenting with new technologies by building small projects and am interested in front-end architecture. I like to learn about how things work and how we can reach a particular outcome in several ways.
 </p>
 
 <br>
