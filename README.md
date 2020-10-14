@@ -19,3 +19,8 @@ Welcome to my GitHub profile! 😄
 ### Recent Activity
 
 <!--START_SECTION:activity-->
+1. 🎉 Merged PR [#1](https://github.com/ioalex/vanilla-parcel-boilerplate/pull/1) in [ioalex/vanilla-parcel-boilerplate](https://github.com/ioalex/vanilla-parcel-boilerplate)
+2. 🎉 Merged PR [#1](https://github.com/ioalex/sass-gulp-experiment/pull/1) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
+3. 🎉 Merged PR [#1](https://github.com/ioalex/strapi-test/pull/1) in [ioalex/strapi-test](https://github.com/ioalex/strapi-test)
+4. 🎉 Merged PR [#1](https://github.com/ioalex/spotipy/pull/1) in [ioalex/spotipy](https://github.com/ioalex/spotipy)
+<!--END_SECTION:activity-->
