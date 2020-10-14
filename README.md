@@ -44,10 +44,9 @@ I enjoy experimenting with new technologies by building small projects and am in
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=ioalex&theme=blueberry&show_icons=true&line_height=27&count_private=true" alt="Martin's GitHub Stats" />
 </a>
 </p>
+<br>
 
 ---
-
-<br>
 
 ## Technologies
 
