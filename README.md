@@ -48,6 +48,23 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 ---
 
+<br>
+
+## Technologies
+
+![](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Tools-PostCSS-informational?style=flat&logo=postcss&logoColor=white&color=7D6B91)
+![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=7D6B91)
+
+---
+
 ## Recent Activity
 
 <details>
