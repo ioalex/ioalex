@@ -73,10 +73,10 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 <!--START_SECTION:activity-->
 
-1. 💪 Opened PR [#572](https://github.com/anuraghazra/github-readme-stats/pull/572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
-2. 🎉 Merged PR [#1](https://github.com/ioalex/vanilla-parcel-boilerplate/pull/1) in [ioalex/vanilla-parcel-boilerplate](https://github.com/ioalex/vanilla-parcel-boilerplate)
-3. 🎉 Merged PR [#1](https://github.com/ioalex/sass-gulp-experiment/pull/1) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
-4. 🎉 Merged PR [#1](https://github.com/ioalex/strapi-test/pull/1) in [ioalex/strapi-test](https://github.com/ioalex/strapi-test)
+1. 🗣 Commented on [#572](https://github.com/anuraghazra/github-readme-stats/issues/572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 💪 Opened PR [#572](https://github.com/anuraghazra/github-readme-stats/pull/572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+3. 🎉 Merged PR [#1](https://github.com/ioalex/vanilla-parcel-boilerplate/pull/1) in [ioalex/vanilla-parcel-boilerplate](https://github.com/ioalex/vanilla-parcel-boilerplate)
+4. 🎉 Merged PR [#1](https://github.com/ioalex/sass-gulp-experiment/pull/1) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
 <!--END_SECTION:activity-->
 
 <br><br>
