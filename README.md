@@ -1,5 +1,7 @@
 # Hey! <img src="assets/gif/wave.gif" width="30px">
 
+<p align="right"><img src="https://komarev.com/ghpvc/?username=ioalex&color=7D6B91" alt="Profile View Counter"></p>
+
 <p align="center">
   Hi, I'm Alex. 😄
   <br>
