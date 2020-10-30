@@ -75,10 +75,10 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#654](https://github.com/github/docs/issues/654) in [github/docs](https://github.com/github/docs)
-2. ❗️ Closed issue [#654](https://github.com/github/docs/issues/654) in [github/docs](https://github.com/github/docs)
-3. ❗️ Opened issue [#654](https://github.com/github/docs/issues/654) in [github/docs](https://github.com/github/docs)
-4. 🗣 Commented on [#572](https://github.com/anuraghazra/github-readme-stats/issues/572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. ❌ Closed PR [#572](https://github.com/anuraghazra/github-readme-stats/pull/572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+2. 🗣 Commented on [#654](https://github.com/github/docs/issues/654) in [github/docs](https://github.com/github/docs)
+3. ❗️ Closed issue [#654](https://github.com/github/docs/issues/654) in [github/docs](https://github.com/github/docs)
+4. ❗️ Opened issue [#654](https://github.com/github/docs/issues/654) in [github/docs](https://github.com/github/docs)
 <!--END_SECTION:activity-->
 
 <br><br>
