@@ -75,10 +75,10 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#3](https://github.com/ioalex/alexhe.io/pull/3) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-2. 🎉 Merged PR [#2](https://github.com/ioalex/alexhe.io/pull/2) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-3. 🎉 Merged PR [#1](https://github.com/ioalex/alexhe.io/pull/1) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-4. ❌ Closed PR [#572](https://github.com/anuraghazra/github-readme-stats/pull/572) in [anuraghazra/github-readme-stats](https://github.com/anuraghazra/github-readme-stats)
+1. 🎉 Merged PR [#6](https://github.com/ioalex/alexhe.io/pull/6) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+2. 🎉 Merged PR [#5](https://github.com/ioalex/alexhe.io/pull/5) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+3. 🎉 Merged PR [#4](https://github.com/ioalex/alexhe.io/pull/4) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🎉 Merged PR [#3](https://github.com/ioalex/alexhe.io/pull/3) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
 <!--END_SECTION:activity-->
 
 <br><br>
