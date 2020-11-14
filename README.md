@@ -34,7 +34,7 @@ I enjoy experimenting with new technologies by building small projects and am in
 <a href="https://dev.to/ioalex" alt="DEV.to"><img src="assets/icons/dev-to.png"/></a>
 <a href="https://medium.com/@ioalex" alt="Medium"><img src="assets/icons/medium.png"/></a>
 <a href="https://stackoverflow.com/users/13161343/ioalex" alt="Stack Overflow"><img src="assets/icons/stack-overflow.png"/></a>
-<a href="https://www.npmjs.com/~alexhecodes" alt="NPM"><img src="assets/icons/npm.png"/></a>
+<a href="https://www.npmjs.com/~ioalex" alt="NPM"><img src="assets/icons/npm.png"/></a>
 <a href="https://twitter.com/ioalex_" alt="Twitter"><img src="assets/icons/twitter.png"/></a>
 <a href="mailto:alex@alexhe.io" alt="Email"><img src="assets/icons/gmail.png"/></a>
 <a href="https://alexhe.io"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" width="30"/></a>
