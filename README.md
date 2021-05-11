@@ -75,10 +75,10 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#5](https://github.com/ioalex/quote-generator/pull/5) in [ioalex/quote-generator](https://github.com/ioalex/quote-generator)
-2. 🎉 Merged PR [#12](https://github.com/ioalex/strapi-test/pull/12) in [ioalex/strapi-test](https://github.com/ioalex/strapi-test)
-3. 🎉 Merged PR [#6](https://github.com/ioalex/quote-generator/pull/6) in [ioalex/quote-generator](https://github.com/ioalex/quote-generator)
-4. 🎉 Merged PR [#4](https://github.com/ioalex/quote-generator/pull/4) in [ioalex/quote-generator](https://github.com/ioalex/quote-generator)
+1. 🎉 Merged PR [#182](https://github.com/ioalex/alexhe.io/pull/182) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+2. 🎉 Merged PR [#180](https://github.com/ioalex/alexhe.io/pull/180) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+3. 🎉 Merged PR [#177](https://github.com/ioalex/alexhe.io/pull/177) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🎉 Merged PR [#178](https://github.com/ioalex/alexhe.io/pull/178) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
 <!--END_SECTION:activity-->
 
 <br><br>
