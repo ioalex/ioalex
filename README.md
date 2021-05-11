@@ -75,10 +75,10 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#182](https://github.com/ioalex/alexhe.io/pull/182) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-2. 🎉 Merged PR [#180](https://github.com/ioalex/alexhe.io/pull/180) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-3. 🎉 Merged PR [#177](https://github.com/ioalex/alexhe.io/pull/177) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-4. 🎉 Merged PR [#178](https://github.com/ioalex/alexhe.io/pull/178) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+1. 🎉 Merged PR [#6](https://github.com/ioalex/sass-gulp-experiment/pull/6) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
+2. 🎉 Merged PR [#5](https://github.com/ioalex/gobble/pull/5) in [ioalex/gobble](https://github.com/ioalex/gobble)
+3. 🎉 Merged PR [#2](https://github.com/ioalex/jarvis/pull/2) in [ioalex/jarvis](https://github.com/ioalex/jarvis)
+4. 🎉 Merged PR [#5](https://github.com/ioalex/sass-gulp-experiment/pull/5) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
 <!--END_SECTION:activity-->
 
 <br><br>
