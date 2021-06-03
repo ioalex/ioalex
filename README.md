@@ -56,17 +56,24 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 ![Windows](https://img.shields.io/badge/OS-Windows-informational?style=flat&logo=windows&logoColor=white&color=7D6B91)
 ![Mac](https://img.shields.io/badge/OS-Mac-informational?style=flat&logo=apple&logoColor=white&color=7D6B91)
-![Linux](https://img.shields.io/badge/OS-ArchLinux-informational?style=flat&logo=arch-linux&logoColor=white&color=7D6B91)
+![Linux](https://img.shields.io/badge/OS-Arch_Linux-informational?style=flat&logo=arch-linux&logoColor=white&color=7D6B91)
 ![ZSH](https://img.shields.io/badge/Shell-ZSH-informational?style=flat&logo=gnu-bash&logoColor=white&color=7D6B91)
 ![VSCode](https://img.shields.io/badge/Editor-VSCode-informational?style=flat&logo=visual-studio-code&logoColor=white&color=7D6B91)
 ![Neovim](https://img.shields.io/badge/Editor-Neovim-informational?style=flat&logo=neovim&logoColor=white&color=7D6B91)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=html5&logoColor=white&color=7D6B91)
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&logo=css3&logoColor=white&color=7D6B91)
 ![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=7D6B91)
 ![Sass](https://img.shields.io/badge/Code-Sass-informational?style=flat&logo=sass&logoColor=white&color=7D6B91)
 ![Gulp](https://img.shields.io/badge/Tools-Gulp-informational?style=flat&logo=gulp&logoColor=white&color=7D6B91)
 ![Webpack](https://img.shields.io/badge/Tools-Webpack-informational?style=flat&logo=webpack&logoColor=white&color=7D6B91)
 ![PostCSS](https://img.shields.io/badge/Tools-PostCSS-informational?style=flat&logo=postcss&logoColor=white&color=7D6B91)
 ![NPM](https://img.shields.io/badge/Tools-npm-informational?style=flat&logo=npm&logoColor=white&color=7D6B91)
+![pnpm](https://img.shields.io/badge/Tools-pnpm-informational?style=flat&logo=pnpm&logoColor=white&color=7D6B91)
+![tmux](https://img.shields.io/badge/Tools-tmux-informational?style=flat&logo=tmux&logoColor=white&color=7D6B91)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=7D6B91)
+![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=git&logoColor=white&color=7D6B91)
+![Trello](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=7D6B91)
+![Jira](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=7D6B91)
 
 ---
 
