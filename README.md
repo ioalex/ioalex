@@ -9,7 +9,7 @@
   <br><br>
   I'm an aspiring web developer from Melbourne, Australia. 🦘
 
-I enjoy experimenting with new technologies by building small projects and am interested in front-end architecture. I like to learn about how things work and the many different ways we can build a project.
+I enjoy experimenting with new technologies by building projects and am deeply interested in front-end architecture. I am always curious about how things work and often find myself smiling uncontrollably when I entertain new ideas or successfully build something.
 
 </p>
 
@@ -21,7 +21,7 @@ I enjoy experimenting with new technologies by building small projects and am in
 
 🌱 I’m currently self-learning front-end web development and am really enjoying it!
 
-👷‍♂️ I’ve been working on a website for a side gig. 💪 Exciting, I know!
+👷‍♂️ I’m always on the hunt for / creating side gig opportunities.
 
 🤙 When I'm bored, I like to play around with my [dotfiles](https://github.com/ioalex/dotfiles).
 
@@ -37,6 +37,7 @@ I enjoy experimenting with new technologies by building small projects and am in
 <a href="https://www.npmjs.com/~ioalex" alt="NPM"><img src="assets/icons/npm.png"/></a>
 <a href="https://twitter.com/ioalex_" alt="Twitter"><img src="assets/icons/twitter.png"/></a>
 <a href="mailto:alex@alexhe.io" alt="Email"><img src="assets/icons/gmail.png"/></a>
+<a href="https://www.linkedin.com/in/alex-he/" alt="Linkedin"><img src="assets/icons/linkedin.png" width="30"/></a>
 <a href="https://alexhe.io"><img src="https://img.icons8.com/color/48/000000/domain--v1.png" width="30"/></a>
 </p>
 
