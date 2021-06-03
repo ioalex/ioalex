@@ -23,7 +23,7 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 👷‍♂️ I’m always on the hunt for / creating side gig opportunities.
 
-🤙 When I'm bored, I like to play around with my [dotfiles](https://github.com/ioalex/dotfiles).
+🤙 When I'm bored, I like to play around with my [dotfiles](https://github.com/ioalex/dotfiles-win).
 
 </details>
 <br>
@@ -71,7 +71,7 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 ![pnpm](https://img.shields.io/badge/Tools-pnpm-informational?style=flat&logo=pnpm&logoColor=white&color=7D6B91)
 ![tmux](https://img.shields.io/badge/Tools-tmux-informational?style=flat&logo=tmux&logoColor=white&color=7D6B91)
 ![Git](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=7D6B91)
-![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=git&logoColor=white&color=7D6B91)
+![GitHub Actions](https://img.shields.io/badge/Tools-GitHub_Actions-informational?style=flat&logo=github-actions&logoColor=white&color=7D6B91)
 ![Trello](https://img.shields.io/badge/Tools-Trello-informational?style=flat&logo=trello&logoColor=white&color=7D6B91)
 ![Jira](https://img.shields.io/badge/Tools-Jira-informational?style=flat&logo=jira&logoColor=white&color=7D6B91)
 
