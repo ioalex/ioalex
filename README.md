@@ -23,7 +23,7 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 👷‍♂️ I’m always on the hunt for / creating side gig opportunities.
 
-🤙 When I'm bored, I like to play around with my [dotfiles](https://github.com/ioalex/dotfiles-win).
+🤙 When I'm bored, I like to play around with my [dotfiles](https://github.com/ioalex/dotfiles).
 
 </details>
 <br>
