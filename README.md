@@ -85,10 +85,10 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#1](https://github.com/ioalex/eleventy-test/pull/1) in [ioalex/eleventy-test](https://github.com/ioalex/eleventy-test)
-2. 🎉 Merged PR [#2](https://github.com/ioalex/eleventy-test/pull/2) in [ioalex/eleventy-test](https://github.com/ioalex/eleventy-test)
-3. 🎉 Merged PR [#3](https://github.com/ioalex/eleventy-test/pull/3) in [ioalex/eleventy-test](https://github.com/ioalex/eleventy-test)
-4. 🎉 Merged PR [#4](https://github.com/ioalex/eleventy-test/pull/4) in [ioalex/eleventy-test](https://github.com/ioalex/eleventy-test)
+1. 💪 Opened PR [#1](https://github.com/cdelahousse/Autocorrect-AutoHotKey/pull/1) in [cdelahousse/Autocorrect-AutoHotKey](https://github.com/cdelahousse/Autocorrect-AutoHotKey)
+2. 🎉 Merged PR [#1](https://github.com/ioalex/eleventy-test/pull/1) in [ioalex/eleventy-test](https://github.com/ioalex/eleventy-test)
+3. 🎉 Merged PR [#2](https://github.com/ioalex/eleventy-test/pull/2) in [ioalex/eleventy-test](https://github.com/ioalex/eleventy-test)
+4. 🎉 Merged PR [#3](https://github.com/ioalex/eleventy-test/pull/3) in [ioalex/eleventy-test](https://github.com/ioalex/eleventy-test)
 <!--END_SECTION:activity-->
 
 <br><br>
