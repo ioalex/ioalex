@@ -85,10 +85,10 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 <!--START_SECTION:activity-->
 
-1. 🗣 Commented on [#1](https://github.com/cdelahousse/Autocorrect-AutoHotKey/issues/1) in [cdelahousse/Autocorrect-AutoHotKey](https://github.com/cdelahousse/Autocorrect-AutoHotKey)
-2. 🎉 Merged PR [#216](https://github.com/ioalex/alexhe.io/pull/216) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-3. 🎉 Merged PR [#215](https://github.com/ioalex/alexhe.io/pull/215) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-4. 🎉 Merged PR [#214](https://github.com/ioalex/alexhe.io/pull/214) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+1. 🎉 Merged PR [#8](https://github.com/ioalex/quote-generator/pull/8) in [ioalex/quote-generator](https://github.com/ioalex/quote-generator)
+2. 🗣 Commented on [#1](https://github.com/cdelahousse/Autocorrect-AutoHotKey/issues/1) in [cdelahousse/Autocorrect-AutoHotKey](https://github.com/cdelahousse/Autocorrect-AutoHotKey)
+3. 🎉 Merged PR [#216](https://github.com/ioalex/alexhe.io/pull/216) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🎉 Merged PR [#215](https://github.com/ioalex/alexhe.io/pull/215) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
 <!--END_SECTION:activity-->
 
 <br><br>
