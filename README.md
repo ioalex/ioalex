@@ -85,10 +85,10 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#218](https://github.com/ioalex/alexhe.io/pull/218) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-2. 🎉 Merged PR [#217](https://github.com/ioalex/alexhe.io/pull/217) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-3. 🎉 Merged PR [#8](https://github.com/ioalex/quote-generator/pull/8) in [ioalex/quote-generator](https://github.com/ioalex/quote-generator)
-4. 🗣 Commented on [#1](https://github.com/cdelahousse/Autocorrect-AutoHotKey/issues/1) in [cdelahousse/Autocorrect-AutoHotKey](https://github.com/cdelahousse/Autocorrect-AutoHotKey)
+1. 🗣 Commented on [#68](https://github.com/notiondog/notion.dog/issues/68) in [notiondog/notion.dog](https://github.com/notiondog/notion.dog)
+2. 🎉 Merged PR [#218](https://github.com/ioalex/alexhe.io/pull/218) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+3. 🎉 Merged PR [#217](https://github.com/ioalex/alexhe.io/pull/217) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🎉 Merged PR [#8](https://github.com/ioalex/quote-generator/pull/8) in [ioalex/quote-generator](https://github.com/ioalex/quote-generator)
 <!--END_SECTION:activity-->
 
 <br><br>
