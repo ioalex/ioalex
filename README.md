@@ -85,10 +85,10 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#219](https://github.com/ioalex/alexhe.io/pull/219) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-2. 🗣 Commented on [#68](https://github.com/notiondog/notion.dog/issues/68) in [notiondog/notion.dog](https://github.com/notiondog/notion.dog)
-3. 🎉 Merged PR [#218](https://github.com/ioalex/alexhe.io/pull/218) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-4. 🎉 Merged PR [#217](https://github.com/ioalex/alexhe.io/pull/217) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+1. 🎉 Merged PR [#221](https://github.com/ioalex/alexhe.io/pull/221) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+2. 🎉 Merged PR [#220](https://github.com/ioalex/alexhe.io/pull/220) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+3. 🎉 Merged PR [#219](https://github.com/ioalex/alexhe.io/pull/219) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🗣 Commented on [#68](https://github.com/notiondog/notion.dog/issues/68) in [notiondog/notion.dog](https://github.com/notiondog/notion.dog)
 <!--END_SECTION:activity-->
 
 <br><br>
