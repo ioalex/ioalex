@@ -85,10 +85,10 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#247](https://github.com/ioalex/alexhe.io/pull/247) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-2. 🎉 Merged PR [#246](https://github.com/ioalex/alexhe.io/pull/246) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-3. 🎉 Merged PR [#245](https://github.com/ioalex/alexhe.io/pull/245) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-4. 🎉 Merged PR [#244](https://github.com/ioalex/alexhe.io/pull/244) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+1. 🎉 Merged PR [#249](https://github.com/ioalex/alexhe.io/pull/249) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+2. 🎉 Merged PR [#248](https://github.com/ioalex/alexhe.io/pull/248) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+3. 🎉 Merged PR [#247](https://github.com/ioalex/alexhe.io/pull/247) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🎉 Merged PR [#246](https://github.com/ioalex/alexhe.io/pull/246) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
 <!--END_SECTION:activity-->
 
 <br><br>
