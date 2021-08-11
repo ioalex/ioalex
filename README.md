@@ -85,10 +85,10 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#262](https://github.com/ioalex/alexhe.io/pull/262) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-2. ❗️ Closed issue [#2](https://github.com/ioalex/dotfiles/issues/2) in [ioalex/dotfiles](https://github.com/ioalex/dotfiles)
-3. 🗣 Commented on [#2](https://github.com/ioalex/dotfiles/issues/2) in [ioalex/dotfiles](https://github.com/ioalex/dotfiles)
-4. ❗️ Closed issue [#3](https://github.com/ioalex/dotfiles/issues/3) in [ioalex/dotfiles](https://github.com/ioalex/dotfiles)
+1. 🎉 Merged PR [#263](https://github.com/ioalex/alexhe.io/pull/263) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+2. 🎉 Merged PR [#262](https://github.com/ioalex/alexhe.io/pull/262) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+3. ❗️ Closed issue [#2](https://github.com/ioalex/dotfiles/issues/2) in [ioalex/dotfiles](https://github.com/ioalex/dotfiles)
+4. 🗣 Commented on [#2](https://github.com/ioalex/dotfiles/issues/2) in [ioalex/dotfiles](https://github.com/ioalex/dotfiles)
 <!--END_SECTION:activity-->
 
 <br><br>
