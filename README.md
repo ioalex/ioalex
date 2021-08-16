@@ -85,10 +85,10 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#10](https://github.com/ioalex/sass-gulp-experiment/pull/10) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
-2. 🎉 Merged PR [#22](https://github.com/ioalex/strapi-test/pull/22) in [ioalex/strapi-test](https://github.com/ioalex/strapi-test)
-3. 🎉 Merged PR [#9](https://github.com/ioalex/sass-gulp-experiment/pull/9) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
-4. 🎉 Merged PR [#21](https://github.com/ioalex/strapi-test/pull/21) in [ioalex/strapi-test](https://github.com/ioalex/strapi-test)
+1. 🎉 Merged PR [#264](https://github.com/ioalex/alexhe.io/pull/264) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+2. 🎉 Merged PR [#10](https://github.com/ioalex/sass-gulp-experiment/pull/10) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
+3. 🎉 Merged PR [#22](https://github.com/ioalex/strapi-test/pull/22) in [ioalex/strapi-test](https://github.com/ioalex/strapi-test)
+4. 🎉 Merged PR [#9](https://github.com/ioalex/sass-gulp-experiment/pull/9) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
 <!--END_SECTION:activity-->
 
 <br><br>
