@@ -86,9 +86,9 @@ I enjoy experimenting with new technologies by building projects and am deeply i
 <!--START_SECTION:activity-->
 
 1. 🗣 Commented on [#86](https://github.com/notiondog/notion.dog/issues/86) in [notiondog/notion.dog](https://github.com/notiondog/notion.dog)
-2. 🎉 Merged PR [#265](https://github.com/ioalex/alexhe.io/pull/265) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-3. 🎉 Merged PR [#264](https://github.com/ioalex/alexhe.io/pull/264) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-4. 🎉 Merged PR [#10](https://github.com/ioalex/sass-gulp-experiment/pull/10) in [ioalex/sass-gulp-experiment](https://github.com/ioalex/sass-gulp-experiment)
+2. 🗣 Commented on [#86](https://github.com/notiondog/notion.dog/issues/86) in [notiondog/notion.dog](https://github.com/notiondog/notion.dog)
+3. 🎉 Merged PR [#265](https://github.com/ioalex/alexhe.io/pull/265) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🎉 Merged PR [#264](https://github.com/ioalex/alexhe.io/pull/264) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
 <!--END_SECTION:activity-->
 
 <br><br>
