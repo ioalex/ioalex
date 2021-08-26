@@ -9,7 +9,7 @@ $ neofetch
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 alex@ioalex.local
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
         .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 23 years
-      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code Plugins: JavaScript
+      _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code: JavaScript
     `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Arch Linux
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: zsh
   ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCodium
@@ -31,6 +31,18 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   email: alex@alexh
               "Lf8@@@@v              q@@@#Qa?:                 Resources: /ioalex/resources
                   -!v|`              _?v!`                     
 ```
+<br />
+
+`$ about`
+
+```text
+~ 👋 Hi, I'm Alex!
+~ 👀 I’m focused on making a career shift into tech.
+~ 🧑‍💻 I’m teaching myself web development.
+~ 🧠 I love learning new things.
+~ ✍ I like to write.
+```
+
 <br />
 
 `$ stats`
