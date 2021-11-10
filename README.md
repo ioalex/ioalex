@@ -88,10 +88,10 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   email: alex@alexh
 
 <!--START_SECTION:activity-->
 
-1. 🎉 Merged PR [#349](https://github.com/ioalex/alexhe.io/pull/349) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-2. 🎉 Merged PR [#348](https://github.com/ioalex/alexhe.io/pull/348) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-3. 🎉 Merged PR [#347](https://github.com/ioalex/alexhe.io/pull/347) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
-4. 🎉 Merged PR [#346](https://github.com/ioalex/alexhe.io/pull/346) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+1. 🎉 Merged PR [#351](https://github.com/ioalex/alexhe.io/pull/351) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+2. 🎉 Merged PR [#350](https://github.com/ioalex/alexhe.io/pull/350) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+3. 🎉 Merged PR [#349](https://github.com/ioalex/alexhe.io/pull/349) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
+4. 🎉 Merged PR [#348](https://github.com/ioalex/alexhe.io/pull/348) in [ioalex/alexhe.io](https://github.com/ioalex/alexhe.io)
 <!--END_SECTION:activity-->
 
 </details>
