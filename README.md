@@ -5,17 +5,17 @@
 
 ```console
 $ neofetch
-                   .~vVeZNgQBBBQQg9Ze1v~.                   
+                   .~vVeZNgQBBBQQg9Ze1v~.
               `^}%B@@@@@@@@@@@@@@@@@@@@@@8%}=`                 alex@ioalex.local
            -Lq#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#qr-              -------------------
-        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 23 years
+        .V0@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@0?.           Uptime: 24 years
       _l#@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@#l`         Code: JavaScript
-    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Arch Linux
+    `o@@@@@@@@v^r}P0@@@@@@@@@@@@@@@@@@@@ghlr<r@@@@@@@#o`       OS: Arch Linux x86_64
    ;0@@@@@@@@0      .?szL?*;!!!!~*|]Vox_      P@@@@@@@@0.      Shell: zsh
-  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: VSCodium
+  ?@@@@@@@@@@q                                z@@@@@@@@@#?     Editor: Neovim
  :@@@@@@@@@@@Q                                R@@@@@@@@@@@"    Crontab: Coding
 _g@@@@@@@@@@2-                                `M@@@@@@@@@@0    Home: /home/alex
-a@@@@@@@@@@2                                    v@@@@@@@@@@;    
+a@@@@@@@@@@2                                    v@@@@@@@@@@;
 #@@@@@@@@@@_                                     @@@@@@@@@@y   contact information
 @@@@@@@@@@@.                                     @@@@@@@@@@%   -------------------
 #@@@@@@@@@@r                                    :@@@@@@@@@@s   Website: alex.cv
@@ -23,13 +23,13 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   email: alex@alexh
 ~#@@@@@@@@@@9!                                ,Q@@@@@@@@@@#    GitHub: @ioalex
  ;@@@@@@@@@@@@6^.                          `\p@@@@@@@@@@@@~    StackOverflow: 13161343
   n@@@@@PlVd@@@@#6Vv~_`              `_!?zd#@@@@@@@@@@@@#n     freeCodeCamp: @ioalex
-   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~      
+   2#@@@#hr _Y#@@@@@@@#q`          `X#@@@@@@@@@@@@@@@@@#~
     .d@@@@@D` .n6#@@@#V`             Q@@@@@@@@@@@@@@@@d.       projects
       x0@@@@0^   `__-                M@@@@@@@@@@@@@@0=         ------------------
         =p#@@@#%Il]]L1,              M@@@@@@@@@@@#V=           Dotfiles: /ioalex/dotfiles
           `vR#@@@@@@@@?              M@@@@@@@@#Pv`             Digital Garden: /ioalex/garden
               "Lf8@@@@v              q@@@#Qa?:                 Resources: /ioalex/resources
-                  -!v|`              _?v!`                     
+                  -!v|`              _?v!`
 ```
 <br />
 
@@ -38,9 +38,9 @@ W@@@@@@@@@@Q`                                  _0@@@@@@@@@@*   email: alex@alexh
 ```text
 ~ 👋 Hi, I'm Alex!
 ~ 👀 I’m focused on making a career shift into tech.
-~ 🧑‍💻 I’m teaching myself web development.
-~ 🧠 I love learning new things.
-~ ✍ I like to write.
+~ 🧑‍💻 I’m teaching myself Unix & web development.
+~ 🧠 I love learning new things and exploring topics deeply.
+~ ✍ I like to write to write about all sorts of things.
 ```
 
 <br />
